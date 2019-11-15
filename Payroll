@@ -5,7 +5,8 @@ clss Payroll
   int basic;
   void read()
   {
-  
+  System.out.println("Enter name");
+  name=s.readLine();
   }
   void disp()
   {
