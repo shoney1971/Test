@@ -11,5 +11,8 @@ clss Payroll
   {
   
   }
+  int hra()
+  {
   
+  }
   
