@@ -16,4 +16,8 @@ clss Payroll
   {
   
   }
+  void allowances()
+  {
+  
+  }
   
