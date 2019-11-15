@@ -21,3 +21,7 @@ clss Payroll
   
   }
   
+void deductions()
+{
+
+}
