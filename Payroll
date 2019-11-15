@@ -1,0 +1,15 @@
+clss Payroll
+{
+  String name,
+  int age;
+  int basic;
+  void read()
+  {
+  
+  }
+  void disp()
+  {
+  
+  }
+  
+  
